@@ -1,0 +1,27 @@
+
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields":{
+            "gamer": 1,
+            "number_of_players": 4,
+            "game_type": 1,
+            "title": "Scrabble",
+            "skill_level": 6
+
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields":{
+            "gamer": 1,
+            "number_of_players": 6,
+            "game_type": 1,
+            "title": "Monopoly",
+            "skill_level": 5
+
+        }
+    }
+]
