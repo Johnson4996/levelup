@@ -6,6 +6,7 @@
             "gamer": 1,
             "day": "2020-11-4",
             "time": "11:00am",
+            "location": "My house",
             "game": 1
         }
     },
@@ -16,6 +17,7 @@
             "gamer": 1,
             "day": "2020-11-10",
             "time": "2:00pm",
+            "location": "Online",
             "game": 2
         }
     }
