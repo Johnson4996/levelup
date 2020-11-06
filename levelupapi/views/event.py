@@ -28,7 +28,7 @@ class Events(ViewSet):
         event.description = request.data["description"]
         event.organizer = gamer
 
-        game = Game.objects.get(pk=request.data["gameId"])
+        game = Game.objects.get(pk=request.data["game"])
         event.game = game
 
         try:
